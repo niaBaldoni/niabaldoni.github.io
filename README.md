@@ -1,1 +1,1 @@
-[![pages-build-deployment](https://github.com/niaBaldoni/niabaldoni.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/niaBaldoni/niabaldoni.github.io/actions/workflows/pages/pages-build-deployment)
+[![ci](https://github.com/niaBaldoni/niabaldoni.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/niaBaldoni/niabaldoni.github.io/actions/workflows/deploy.yml)
