@@ -1,6 +1,7 @@
 ---
 title: "Test"
 date: 2026-05-31
+tags: ["teaching", "python", "pandas"]
 draft: true
 ---
 

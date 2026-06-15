@@ -2,3 +2,5 @@ baseURL = "https://niabaldoni.github.io/"
 locale = "en-GB"
 title = "Nia Baldoni"
 theme = "mine"
+[taxonomies]
+    tag = "tags"
